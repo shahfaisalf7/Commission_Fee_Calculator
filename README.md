@@ -81,11 +81,14 @@ Note: the example output is calculated base on the following exchange rates: EUR
 
 Clone the repository
 
-    git clone https://
+    git clone https://github.com/shahfaisalf7/Commission_Fee_Calculator.git
 
 Switch to the repository folder
 
     cd commission-calculator
+    
+Switch to the master branch
+
 
 Install all the dependencies using composer
 
