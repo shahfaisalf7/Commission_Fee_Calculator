@@ -85,11 +85,8 @@ Clone the repository
 
 Switch to the repository folder
 
-    cd commission-calculator
+    cd Commission_Fee_Calculator
     
-Switch to the master branch
-
-
 Install all the dependencies using composer
 
     composer install
@@ -144,4 +141,7 @@ If the tests pass you will see a mark named PASS beside the test otherwise FAIL 
 
 
 
+
+## SHAH FAISAL
+### shahfaisalf7@gmail.com
 ----------
